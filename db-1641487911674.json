@@ -3,30 +3,44 @@
     {
       "id": 1,
       "name": "David",
-      "age": 30
+      "age": 30,
+	  "email": david@gmail.com
     },
     {
       "name": "John",
       "id": 2,
-      "age": 40
+      "age": 40,
+	  "email": john@gmail.com
     },
     {
       "name": "Jessica",
       "age": 30,
-      "id": 3
+      "id": 3,
+	  "email": Jessica@gmail.com
     },
     {
       "name": "Sarah",
       "age": 30,
-      "id": 4
+      "id": 4,
+	  "email": Sarah@gmail.com
     },
     {
       "name": "Liz",
       "age": 30,
-      "id": 5
+      "id": 5,
+	  "email": Liz@gmail.com
     },
     {
-      "id": 6
+      "id": 7
+	  "name": "Kate",
+	   "age": 30,
+	   "email": kate@gmail.com
+    },
+	{
+      "id": 8
+	  "name": "Zed",
+	   "age": 30,
+	   "email": zed@gmail.com
     }
   ]
 }
